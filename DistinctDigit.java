@@ -1,6 +1,7 @@
 //You work for a mobile app development company that specializes in creating educational apps for kids. One of your tasks is to develop a game that helps children learn and recognize different digits.
 //The game includes a feature where a list of numbers is provided, and the child needs to identify all the distinct digits present in that list.
 //The goal is to find all unique digits from the given array of integers.
+//Here we used HashMap
 import java.util.Arrays;
 import java.util.HashMap;
 public class DistinctDigit {
